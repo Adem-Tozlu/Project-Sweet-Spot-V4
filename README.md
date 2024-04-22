@@ -1,6 +1,6 @@
 # The Sweet Spot V4
 
-# Project – The Sweet Spot V4-component solution
+# Project – The Sweet Spot V4 component solution
 
 This is a solution to a challenge at the DCI (Digital Career Institute). The challenges help you improve your programming skills by creating realistic projects.
 
