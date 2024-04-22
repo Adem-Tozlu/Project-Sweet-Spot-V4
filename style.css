@@ -31,11 +31,12 @@ main {
 
 h1 {
     font-family: 'Monoton', sans-serif;
+    font-size: 3rem;
     background-color: #f58ea0;
     color: #dad8d8;
     text-align: center;
     padding: 1.6rem;
-    text-shadow: 1px 1px 3px #000000;
+    text-shadow: 1.5px 1.5px 4px #000000;
 }
 
 main h2::after { 
@@ -56,6 +57,9 @@ main h2 {
 
 h2+p {
     padding: 0.8rem;
+}
+p{
+    font-size: 1.2rem;
 }
 
 a {
@@ -133,6 +137,10 @@ footer h3 contact a:visited {
 }
 
 /* CONTACT PAGE */
+.contact a {
+   font-size:1.5rem ;
+}
+
 .contact-img_continer {
     height: 20rem;
     background-image: url("images/contact-header.jpeg");
@@ -160,4 +168,5 @@ ul:hover {
 }
 .section_partners{
     margin-top: 8rem;
+    font-size: 1.2rem;
 }
