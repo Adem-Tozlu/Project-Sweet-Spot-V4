@@ -48,7 +48,7 @@ Im Verlauf dieses Projekts habe ich meine Fähigkeiten im Bereich CSS verbessert
 In Zukunft plane ich, meine Fähigkeiten im CSS-Bereich weiter zu verbessern, insbesondere im Zusammenhang mit Flexbox und Grid. Mein Ziel ist es, komplexere Websites zu erstellen und diese besser zu gestalten. Darüber hinaus möchte ich auch an meinen Fähigkeiten im Erstellen von Animationen arbeiten und mich in diesem Bereich weiterentwickeln!
 
 
-##Autor
+## Autor
 
 - Website - [Github](https://github.com/Adem-Tozlu)
 - Frontend-Mentor – [@Adem-Tozlu](https://www.frontendmentor.io/profile/Adem-Tozlu)
