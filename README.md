@@ -26,7 +26,7 @@ This is a solution to a challenge at the DCI (Digital Career Institute). The cha
 ### Left
 
 - Solution URL: [Github Solutions](https://github.com/Adem-Tozlu/Project-Sweet-Spot-V4)
-- Live Site URL: [Website QR Code](https://project-sweet-spot-v4.vercel.app/)
+- Live Site URL: [Website Sweet-Spot-V4](https://project-sweet-spot-v4.vercel.app/)
 
 ## My process
 
@@ -52,6 +52,6 @@ In the future, I plan to continue improving my skills in the CSS area, especiall
 
 - Website - [Github](https://github.com/Adem-Tozlu)
 - Frontend Mentor – [@Adem-Tozlu](https://www.frontendmentor.io/profile/Adem-Tozlu)
--Linked - [@Adem-Tozlu](https://www.linkedin.com/in/adem-tozlu-8906b52a5
+- Linkedin - [@Adem-Tozlu](https://www.linkedin.com/in/adem-tozlu-8906b52a5
 
 )
